@@ -1,4 +1,12 @@
-const repeatString = function() {
+const repeatString = function(hey, num) {
+    if (num == 0) {
+        return "Error";
+    }
+    concatinated = "";
+    for (let i = 0; i > num; i++) {
+        concatinated += hey;
+    ret
+    }
 
 };
 
